@@ -7,7 +7,7 @@ import platform
 # -------------------------------
 # CONFIGURACIÓN MQTT PERSONAL
 # -------------------------------
-broker = "157.230.214.127"     # Servidor MQTT del profesor
+broker = "broker.mqttdashboard.com"     # Servidor MQTT del profesor
 port = 1883                    # Puerto estándar MQTT
 client_id = "santiagoV_app"    # Identificador único de cliente
 topic_switch = "santiagoV/cmqtt_s"  # Tópico para ON/OFF
