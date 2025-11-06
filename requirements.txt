@@ -1,3 +1,7 @@
 streamlit
-paho-mqtt== 1.6.1
-
+opencv-python-headless
+numpy
+pillow
+keras
+tensorflow
+paho-mqtt
